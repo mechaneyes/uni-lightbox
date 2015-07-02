@@ -1,0 +1,269 @@
+/* EMAIL POPUP LIGHTBOX */
+#overlayContent {
+    /*top: 10% !important;*/
+    width: 600px !important;
+}
+
+#emOv-container {
+    width: 600px;
+    height: 545px;
+        /*height: 450px;*/
+    background: #fff
+}
+
+#emOv-stroke {
+    position: relative;
+    top: 10px;
+    height: 515px;
+    margin: 10px;
+    border: 6px solid red
+}
+
+#emOv-signupClose {
+    position: absolute;
+    right: -4px;
+    height: 19px!important;
+    width: 23px!important;
+    font-family: UniqloBoldRegular;
+    font-size: 25px;
+    color: #fff;
+    line-height: 8px;
+    text-align: center;
+    text-decoration: none;
+    background-color: red
+}
+
+#emOv-logo {
+    position: absolute;
+    left: 237px;
+    top: 39px
+}
+
+#emOv-welcome-section {
+    position: relative;
+    top: 105px
+}
+
+#emOv-sign-up {
+    position: relative;
+    width: 210px;
+    margin: 0 auto!important;
+    font-family: UniqloBoldRegular, helvetica, arial, sans-serif;
+    font-size: 62px;
+    color: red;
+    text-align: center
+}
+
+#emOv-perks {
+    position: relative;
+    top: -13px;
+    width: 410px;
+    margin: 0 auto!important;
+    text-align: center;
+    font-family: UniqloBoldRegular, helvetica, arial, sans-serif;
+    font-size: 50px;
+    color: #000
+}
+
+#emOv-hr-signUp {
+    position: relative;
+    top: 0;
+    width: 405px;
+    border-top: 1px solid red
+}
+
+#emOv-treat {
+    position: relative;
+    top: 18px;
+    width: 410px;
+    margin: 0 auto!important;
+    text-align: center;
+    font-family: UniqloBoldRegular, helvetica, arial, sans-serif;
+    font-size: 23px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: red;
+        /*display: none;*/
+        top: 30px;
+}
+
+#emOv-treat span {
+    font-size: 21px;
+    color: #000;
+}
+
+#emOv-forming {
+    margin-top: 50px;
+    margin-left: 67px;
+        /*margin-top: 40px;*/
+        margin-left: 0px;
+}
+
+#emOv-forming.harvester-section {
+    position: relative;
+    top: 125px;
+    margin: 0;
+}
+
+#emOv-errormessage {
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    top: -25px;
+    position: absolute;
+}
+
+#emOv-group-lightbox {
+    width: 415px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#emOv-fieldset {
+    top: 330px;
+    border: none
+}
+
+#emOv-textbox {
+    width: 264px;
+    height: 29px;
+    padding: 5px 0 3px 12px;
+    font-size: 17px;
+    font-family: UniqloRegularRegular, 'DIN Next W01 Bold', helvetica, arial, sans-serif;
+    color: #000;
+    border: 3px solid red;
+    background: 0 0
+}
+
+::-webkit-input-placeholder {
+    font-family: UniqloRegularRegular;
+    color: #000
+}
+
+:-moz-placeholder {
+    font-family: UniqloRegularRegular;
+    color: #000
+}
+
+::-moz-placeholder {
+    font-family: UniqloRegularRegular;
+    color: #000
+}
+
+:-ms-input-placeholder {
+    font-family: UniqloRegularRegular;
+    color: #000
+}
+
+#emOv-submit {
+    position: relative;
+    top: -1px;
+    width: 114px;
+    height: 43px;
+    margin-left: 6px;
+    padding-top: 5px;
+    font-family: UniqloRegularRegular, 'DIN Next W01 Bold', helvetica, arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: red;
+    border: none
+}
+
+#emOv-disclaimer {
+    width: 404px;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-family: UniqloRegularRegular, 'DIN Next W01 Bold', helvetica, arial, sans-serif;
+    font-size: 11px;
+    line-height: 12px;
+    color: red;
+    text-align: center;
+        width: 450px;
+        margin: 20px auto 0;
+}
+
+/*.rfk-rw[data-cssid=home1] {
+    display: none
+}*/
+
+/* END - EMAIL POPUP LIGHTBOX */
+
+/* POPUP LIGHTBOX THANK YOU */
+#light-container-thanks {
+    width: 600px;
+    height: 398px;
+    background-repeat: no-repeat;
+    background-color: #fff
+}
+
+#light-stroke-thanks {
+    position: relative;
+    top: 10px;
+    height: 367px;
+    margin: 10px;
+    border: 6px solid red
+}
+
+#lightboxSignupClose {
+    position: absolute;
+    right: -4px;
+    height: 19px;
+    width: 23px;
+    font-family: UniqloBoldRegular;
+    font-size: 25px;
+    color: #fff;
+    line-height: 8px;
+    text-align: center;
+    text-decoration: none;
+    background-color: red
+}
+
+#light-logo {
+    position: absolute;
+    left: 237px;
+    top: 39px
+}
+
+.thank-you-section {
+    position: relative;
+    top: 105px
+}
+
+#thank-you {
+    position: relative;
+    width: 410px;
+    margin: 0 auto;
+    font-family: UniqloBoldRegular, helvetica, arial, sans-serif;
+    font-size: 62px;
+    color: #000;
+    text-align: center
+}
+
+#light-container-thanks hr {
+    position: relative;
+    /*top: 18px;*/
+    width: 477px;
+    border-top: 1px solid red
+}
+
+#confirmation {
+    position: relative;
+    top: 33px;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: UniqloBoldRegular, helvetica, arial, sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    color: red
+}
+/* END - POPUP LIGHTBOX THANK YOU */
+
+/* WORKING */
+#topBanners {padding-top: 5px;}
+a.tocMenu {width: 30% !important;}
+
+/* STORES PAGES */
+.store-modal.NY-5ave .modal-gallery .images-display ul {width: 445px;}
